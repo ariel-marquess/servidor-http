@@ -1,0 +1,5 @@
+### Ignorando componentes indesejados ###
+package-lock.json
+/node_modules
+/request
+/.idea

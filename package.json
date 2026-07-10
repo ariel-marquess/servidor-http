@@ -1,7 +1,7 @@
 {
   "name": "servidor-http",
   "version": "1.0.0",
-  "description": "",
+  "description": "Servidor HTTP desenvolvido como exercício do curso online de Node.js do IFRS.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
